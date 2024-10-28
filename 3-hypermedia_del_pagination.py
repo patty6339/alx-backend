@@ -69,4 +69,3 @@ class Server:
             'data': page_data,
         }
         return page_info
-    
