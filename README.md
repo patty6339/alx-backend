@@ -1,6 +1,6 @@
 # alx-backend
 
-## Notes
+## Notes for Backend
 
 Here’s a quick breakdown on these pagination methods:
 
